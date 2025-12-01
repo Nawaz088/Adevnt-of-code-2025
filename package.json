@@ -1,0 +1,13 @@
+{
+  "name": "aofc",
+  "version": "1.0.0",
+  "description": "this folder is for Advent of Code",
+  "license": "ISC",
+  "author": "AbdulMuqeet Munshi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Day1/sol.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
