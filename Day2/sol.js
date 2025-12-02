@@ -19,8 +19,6 @@ const isPalendrom = (from, to) => {
 
 for(let range of input){
     let [from, to] = range.split('-');
-    console.log("Processing range:", from, to);
-
     isPalendrom(from, to);
 }
 
