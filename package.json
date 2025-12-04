@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "node Day2/sol.js",
+    "start": "node run.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
